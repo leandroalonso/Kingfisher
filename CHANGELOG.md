@@ -2,6 +2,12 @@
 
 -----
 
+## [4.2.1 - Whatever](https://github.com/onevcat/Kingfisher/releases/tag/4.2.1) (2017-11-06)
+
+#### Add
+* This is just a test! :)
+---
+
 ## [4.2.0 - A Tale of Two Caches](https://github.com/onevcat/Kingfisher/releases/tag/4.2.0) (2017-10-22)
 
 #### Add
